@@ -102,7 +102,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer {HUGGING_FACE}"
+              "value": "Bearer {TRAVILY}"
             }
           ]
         },
@@ -129,7 +129,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": "Bearer {HUGING_FACE}"
             },
             {
               "name": "Content-Type",
