@@ -102,7 +102,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": "Bearer {HUGGING_FACE}"
             }
           ]
         },
